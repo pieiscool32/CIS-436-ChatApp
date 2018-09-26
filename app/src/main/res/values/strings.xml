@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Annoy Your Friends</string>
+    <string name="title_activity_login">Please Sign in</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- activity -->
+    <string name="action_settings">Settings</string>
+    <string name="message_help">Type Here, Idiot</string>
+    <string name="message_send">Send</string>
+
+    <!-- main drawer -->
+    <string name="home_title">Chat</string>
+    <string name="profile_title">Account Settings</string>
+    <string name="sign_out_title">Sign Out</string>
+    <string name="about_title">About</string>
+    <string name="manage_title">Settings</string>
+    <string name="default_user">Your Name Here</string>
+    <string name="default_username">Your Username</string>
+
+    <!-- login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_register">Create Account</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+
+    <!-- chat -->
+    <string name="message_time">%1$s&#160;-&#160;</string>
+    <string name="message_user">%1$s:&#160;</string>
+    <string name="message_content">&#160;%1$s</string>
+
+    <string name="notification_channel">firebase-notification-channel</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
